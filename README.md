@@ -21,4 +21,4 @@ notarization, and installs it when you choose Restart to Update or the next time
 
 This repository only publishes Vox's releases. Vox's source code is not public yet.
 
-Latest: Vox 1.207
+Latest: Vox 1.208
